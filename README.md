@@ -3,7 +3,7 @@
 GHAR is an innovative AI-powered platform that allows users to design custom interior and exterior spaces, analyze land for safety and sustainability, and visualize their dream home in real-time 3D — all with intelligent AI assistance.
 
 
-URL: https://ghar-git-main-akankshas-projects-55127cf0.vercel.app
+URL: [https://ghar-git-main-akankshas-projects-55127cf0.vercel.app](https://ghhaar.netlify.app)
 
 
 Preview: ![image](https://github.com/user-attachments/assets/7394fd41-97a6-40b8-80bb-617e5b26ee55)
