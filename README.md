@@ -6,7 +6,7 @@ GHAR is an innovative AI-powered platform that allows users to design custom int
 URL: https://ghar-git-main-akankshas-projects-55127cf0.vercel.app
 
 
-Preview: ![Uploading image.png…]()
+Preview: ![image](https://github.com/user-attachments/assets/7394fd41-97a6-40b8-80bb-617e5b26ee55)
 
 🚀 Features
 
